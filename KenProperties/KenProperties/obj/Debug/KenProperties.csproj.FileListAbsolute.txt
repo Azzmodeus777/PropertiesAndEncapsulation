@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\bin\Debug\KenProperties.exe.config
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\bin\Debug\KenProperties.exe
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\bin\Debug\KenProperties.pdb
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\obj\Debug\KenProperties.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\obj\Debug\KenProperties.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\obj\Debug\KenProperties.exe
+C:\Users\ACT-STUDENT\Desktop\PropertiesAndEncapsulation\KenProperties\KenProperties\obj\Debug\KenProperties.pdb
